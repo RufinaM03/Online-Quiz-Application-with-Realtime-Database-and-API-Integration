@@ -13,7 +13,6 @@ The application enables **real-time quiz participation, automated evaluation, an
 | Course | CSI3001 – Cloud Computing and Methodologies |
 | Project | Online Quiz Application |
 | Technologies | Google App Engine, Firebase Realtime Database |
-| Developers | Rufina, Krishnan V, Hariprasad R |
 
 ---
 
@@ -32,6 +31,40 @@ The platform enables:
 By leveraging **cloud services and real-time databases**, the system enhances **interactive digital learning and academic performance tracking**.
 
 ---
+FACULTY USER FUNCTIONALITIES:
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/0982af01-7286-46fe-b47f-f5670e7e61c1" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/ccf4c834-ce4d-47f0-95f8-9da78d9d2727" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/eb009c16-87f7-4d90-978d-3925e832751c" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/929d2759-2ea2-44f6-a832-bc3a7002d26f" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/0576c491-ce84-4e68-ad73-aa550d09f609" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/cbfad060-bb2e-4119-861f-7aff767e9894" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/089b3f1d-dd93-47a7-8780-626e13b0779a" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/a33b9a0a-4fac-4eaa-8c72-50e377938b01" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/f2075f45-5587-4016-ae8d-b4d7eb6b9fc7" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/ca8b331b-2bc9-4c6e-a711-5d436004a0d8" />
+
+<img width="940" height="713" alt="image" src="https://github.com/user-attachments/assets/82880f5c-c9f4-4692-a861-6a0a28476475" />
+
+STUDENT USER FUNCTIONALITIES:
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/e299a2df-6fbc-40b2-b9cf-0295901703e2" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/a01c8f69-17dc-435e-9c76-ea8e73417b08" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/7c335328-57da-47ab-adea-36ff0232f0ce" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/87428a15-77a7-4c73-9672-4a72069b4884" />
+
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/007d45a9-3a77-4476-b717-3ce89aea6044" />
 
 # System Architecture
 
