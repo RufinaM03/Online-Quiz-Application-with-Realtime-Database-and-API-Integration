@@ -66,6 +66,11 @@ STUDENT USER FUNCTIONALITIES:
 
 <img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/007d45a9-3a77-4476-b717-3ce89aea6044" />
 
+Google Analytics Integration
+<img width="940" height="513" alt="image" src="https://github.com/user-attachments/assets/991f43dc-4f1c-4f72-889a-75a8e265b0a9" />
+
+<img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/4edf0373-272b-4e30-8919-7bb35cc1ffd4" />
+
 # System Architecture
 
 The system follows a **cloud-based architecture** where the frontend interacts with Firebase services deployed on Google Cloud.
