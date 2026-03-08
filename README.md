@@ -244,23 +244,6 @@ Processes documents and extracts structured information from files such as:
 | Analytics | Firebase Analytics |
 | Backend | Google Cloud Services |
 
----
-
-# Screenshots
-
-## Student Interface
-
-Add screenshots of the application here.
-
-Example:
-
-```
-/screenshots/student_dashboard.png
-/screenshots/quiz_page.png
-/screenshots/result_page.png
-```
-
----
 
 # Future Enhancements
 
@@ -272,8 +255,6 @@ Possible improvements include:
 - Multi-course quiz management  
 - Mobile application support  
 - Advanced analytics dashboard  
-
----
 
 # Conclusion
 
